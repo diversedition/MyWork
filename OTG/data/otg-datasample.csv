@@ -1,0 +1,5 @@
+caller,certified,date,destination,direction,duration,items1certified,items1weight,items1zip,items2certified,items2weight,items2zip,items3certified,items3weight,items3zip,poop,sender,signer,tone,tracking,type,user,weight
+jblack,,2014-04-28T14:42:04Z,2125552831,outgoing,34,,,,,,,,,,stinks,,,cordial,,call,jblack,
+,N,2014-04-28T14:42:06Z,,,,,,,,,,,,,,,jblack,,4381192,delivery,swhite,2.05
+,,2014-04-28T14:42:06Z,,,,N,0.4,10032,Y,0.35,10032,N,1.8,55003,,pstevens,,,,sending,jblack,
+jblack,,2014-04-28T15:42:04Z,2125552831,outgoing,87,,,,,,,,,,,,,combative,,call,jblack,

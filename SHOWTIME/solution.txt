@@ -1,0 +1,7 @@
+
+NOTES:
+ Use an ArrayList instead of Object[], so the Object array can grow dynamically, then we won't really need to check capacity.
+
+The pop(...) method should declare the checked exception it throws, which will help performance in those cases.  Plus it is cleaner.
+
+If we were going into a multi-threaded environment we would need to sychronize push(...) and pop(...).

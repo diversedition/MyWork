@@ -1,0 +1,4 @@
+batter1id,batter1type,batter2id,batter2type,batter3id,batter3type,batter4id,batter4type,id,name,ppu,topping1id,topping1type,topping2id,topping2type,topping3id,topping3type,topping4id,topping4type,topping5id,topping5type,topping6id,topping6type,topping7id,topping7type,type
+1001,Regular,1002,Chocolate,1003,Blueberry,1004,Devil's Food,0001,Cake,0.55,5001,None,5002,Glazed,5005,Sugar,5007,Powdered Sugar,5006,Chocolate with Sprinkles,5003,Chocolate,5004,Maple,donut
+1001,Regular,,,,,,,0002,Raised,0.55,5001,None,5002,Glazed,5005,Sugar,5003,Chocolate,5004,Maple,,,,,donut
+1001,Regular,1002,Chocolate,,,,,0003,Old Fashioned,0.55,5001,None,5002,Glazed,5003,Chocolate,5004,Maple,,,,,,,donut

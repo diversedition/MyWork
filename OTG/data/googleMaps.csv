@@ -1,0 +1,4 @@
+awayTeam,capacity,fixture,homeTeam,information,markerImage,point,previousScore,tv
+LUGip,,Wednesday 7pm,Lawrence Library,Linux users group meets second Wednesday of each month.,images/red.png,new GLatLng(40.266044-74.718479),,
+LUGip HW SIG,,Tuesday 7pm,Hamilton Library,Linux users can meet the first Tuesday of the month to work out harward and configuration issues.,images/white.png,new GLatLng(40.211600-74.695702),,
+After LUPip Mtg Spot,2 to 4 pints,Wednesday whenever,Applebees,Some of us go there after the main LUGip meeting drink brews and talk.,images/newcastle.png,new GLatLng(40.294535-74.682012),,

@@ -1,0 +1,80 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "544317c36b07e20b091ed1c276a1fba20719a696",
+    "jarFileModificationDate": "2009-10-09T01:53:12-04:00",
+    "location": "C:\\Program Files\\Java\\jre1.5.0_22\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "48064123303d443c0a9c370fa3c911e4e88b07d4",
+    "jarFileModificationDate": "2014-08-26T19:01:54.519-04:00",
+    "location": "C:\\Program Files\\Java\\jre1.5.0_22\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "029e4a715ad2e43a5282c65140ef4d06a513f237",
+    "jarFileModificationDate": "2009-10-09T01:53:12-04:00",
+    "location": "C:\\Program Files\\Java\\jre1.5.0_22\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9a6461222db4eb2aaf0e92792aa0a242efc9c550",
+    "jarFileModificationDate": "2014-08-26T19:01:54.469-04:00",
+    "location": "C:\\Program Files\\Java\\jre1.5.0_22\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "20a87531d8926714ca980d43c38ab8052dd2e422",
+    "jarFileModificationDate": "2009-10-09T01:53:12-04:00",
+    "location": "C:\\Program Files\\Java\\jre1.5.0_22\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "junit",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4e031bb61df09069aeb2bffb4019e7a5034a4ee0",
+    "jarFileModificationDate": "2014-03-19T00:15:15.974-04:00",
+    "location": "C:\\Users\\Eugene\\Downloads\\eclipse-java-kepler-SR2-win32-x86_64\\eclipse\\plugins\\org.junit_4.11.0.v201303080030\\junit.jar",
+    "javaRuntime": false
+  }
+]
