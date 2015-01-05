@@ -27,5 +27,8 @@ PRICELINE/doc/*
 
 SHOWTIME/.settings*
 
+NOBLE/javatest/classes
+
+PROJECTS/springexample/target
 
 
