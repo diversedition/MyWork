@@ -12,11 +12,18 @@
 hs_err_pid*
 
 #eclipse
-./.metadata*
+.metadata*
 .metadata/.plugins*
 .metadata/.log
+*.metadata/.log
+.metadata/*
+./.metadata/.log
+/cygdrive/c/MyWork/.metadata*
 
 ./.gitignore
+
+
+PRICELINE/doc/*
 
 
 
