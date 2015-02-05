@@ -59,9 +59,9 @@ class AuctionServer {
 	 * will send a list of bidders to the executor for a bidding cycle
 	 * @param bidders - a set of bidders for the current auction item
 	 */
-	void makeBids(List<Bidder> bidders) {
+	void makeBids(List<Bidder> bidders, Winner winner) {
 		for (Bidder b : bidders) {
-	       if (b.couldBidAgain(Auction.winner)) {
+	       if (b.couldBidAgain(winner)) {
 	    	   executor.execute(b);
 	       }
 		}    		

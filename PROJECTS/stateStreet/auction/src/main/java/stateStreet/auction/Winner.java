@@ -1,6 +1,6 @@
 package stateStreet.auction;
 
-public class Winner {
+class Winner {
 	int winningBid = 0;
 	String winningName = "None";
 	
@@ -16,8 +16,8 @@ public class Winner {
 	int getWinningBid() { return winningBid; }
 	String getWinningName() { return winningName; }
 	
-	void setWinningBid(int winningBid) { this.winningBid = winningBid;	}
-	void setWinningName(String winningName) { this.winningName = winningName; }
+	private void setWinningBid(int winningBid) { this.winningBid = winningBid;	}
+	private void setWinningName(String winningName) { this.winningName = winningName; }
 	
 	void setFields(int winBid, String winName) {
 		setWinningBid(winBid);

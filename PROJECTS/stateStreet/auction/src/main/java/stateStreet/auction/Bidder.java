@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * @author Eugene
  *
  */
-public class Bidder implements Runnable 
+class Bidder implements Runnable 
 {
 	boolean DEBUG=false;
 	final String myName;
@@ -146,8 +146,8 @@ public class Bidder implements Runnable
 	 * Stop when the bid is the winning bid; or the max bid has been reached, or would be reached.
 	 */
 	public void run() {
-	    while (canUpdateCurrentBid(myCurrentBid, myName, Auction.winner)) {
-	    	checkWinningBid(myCurrentBid, myName, Auction.winner);
+	    while (canUpdateCurrentBid(myCurrentBid, myName, AuctionImpl.getWinner())) {
+	    	checkWinningBid(myCurrentBid, myName, AuctionImpl.getWinner());
 	    }
 	}
 }
