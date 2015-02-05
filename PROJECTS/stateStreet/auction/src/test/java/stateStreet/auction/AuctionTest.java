@@ -31,8 +31,18 @@ public class AuctionTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testAuction()
     {
         assertTrue( true );
+    }
+    
+    public void testResetAuction()
+    {
+    	Auction auction = new Auction(new AuctionServer(false));
+    	
+    	//auction.
+    	auction.resetAuction();
+    	
+    	//assert(auction.getBidders().size() == 0);
     }
 }
