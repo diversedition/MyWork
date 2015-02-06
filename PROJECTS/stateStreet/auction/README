@@ -1,0 +1,27 @@
+
+Unzip the stateStreetAuction.zip file to see the code.
+
+There is a .project file and a pom.xml file.
+The executable jar file, auction_1.0.jar, is in the target subdirectory.
+
+
+Here is an example of the jar file being run with input, and its actual output:
+
+/cygdrive/c/myWork/PROJECTS/stateStreet/auction/target
+$ java -jar auction_1.0.jar "Toy;James,10,20,2;Helen,23,27,1"
+StartUp Auction Session...
+
+ Auctioning off the Toy ............................................
+
+ begin pass:1 >>  Initial Bid:0  James-10:20:2  Helen-23:27:1
+ after pass:1 >>  Current Bid:23  James-10:20:2  HELEN-23:27:1
+ after pass:2 >>  Current Bid:23  James-20:20:2  HELEN-23:27:1
+
+ The winner of the Toy is Helen, with the winning bid of: 23
+
+============================================================================================
+
+
+The Auction is now being shutdown...
+The Auction has successfully been shutdown, Good-bye.
+
